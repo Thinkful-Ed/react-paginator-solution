@@ -8,6 +8,6 @@ a {
     text-decoration: none;
 }
 
-.page, .next, .prev {
+.paginator-page, .paginator-next, .paginator-prev {
     margin: 0 5px;
 }
